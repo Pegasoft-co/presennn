@@ -10,5 +10,7 @@ web app untuk merekam kehadiran pegawai.
 
 - APInya masi REST, kedepannya bisa kita cicip pakein GraphQL.
 
+- Jangan lupa bikin branch baru buat tiap issuenya
+
 ---
 © 2022 [Pegasoft](https://github.com/Pegasoft-co)
